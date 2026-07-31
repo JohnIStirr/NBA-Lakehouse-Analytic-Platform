@@ -1,4 +1,4 @@
-# NBA Lakehouse Data Engineering Project
+# 🏀NBA Lakehouse Data Engineering Project
 
 An end-to-end data engineering project that builds a modern lakehouse using the Medallion Architecture on Databricks. The project ingests historical NBA data from a SQLite database, transforms it through Bronze and Silver layers using PySpark and Delta Lake, and prepares business-ready datasets for analytics in the Gold layer.
 
